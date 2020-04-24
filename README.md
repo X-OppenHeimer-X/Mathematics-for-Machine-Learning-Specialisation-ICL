@@ -7,11 +7,11 @@ The following are the solutions for the programming assignments and quizzes of a
 
 
 ### Course 1 (Linear Algebra)
--Week1:- complete
--Week2:- complete
--Week3:- complete
--Week4:- complete
--Week5:- complete
+*Week1:- complete
+*Week2:- complete
+*Week3:- complete
+*Week4:- complete
+*Week5:- complete
 
 
 
