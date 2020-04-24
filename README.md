@@ -5,6 +5,7 @@ The following are the solutions for the programming assignments and quizzes of a
 
 # Updates
 
+
 # Course 1 (Linear Algebra)
 Week1:- complete
 Week2:- complete
